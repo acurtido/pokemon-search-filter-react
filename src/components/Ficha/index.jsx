@@ -6,11 +6,12 @@ const ComponentContainer = styled.section`
     height: 650px;
     border: 1px solid blue;
     border-radius: 10px;
+    background-color: salmon;
 `
 
 const PokemonContainer = styled.section`
     display: flex;
-    flex-directionF column;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 10px;
