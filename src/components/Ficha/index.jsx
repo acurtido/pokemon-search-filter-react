@@ -2,15 +2,15 @@ import styled from "styled-components"
 import PropTypes from 'prop-types'
 
 const ComponentContainer = styled.section`
-  width: 365px;
-  height: 650px;
-  border: 1px solid blue;
-  border-radius: 10px;
+    width: 365px;
+    height: 650px;
+    border: 1px solid blue;
+    border-radius: 10px;
 `
 
 const PokemonContainer = styled.section`
     display: flex;
-    flex-direction: column;
+    flex-directionF column;
     align-items: center;
     justify-content: center;
     gap: 10px;
